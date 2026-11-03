@@ -1,0 +1,15 @@
+*
+
+!*/
+
+!*.c
+!*.h
+
+!*.txt
+
+![Mm]akefile
+!*.mk
+
+!*.gitignore
+
+
